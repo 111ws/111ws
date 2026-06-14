@@ -1,63 +1,36 @@
-# Hi, I'm Xingyu Lu 👋
-
-📍 Haikou | 🎓 Materials Forming and Control Engineering Student | 🧭 Human-Computer Interaction | 🏫 Shaanxi University of Science & Technology
-
-> For the innovation,A step ahead, you lead; but two steps ahead, you bleed.
-
-## About Me
-
-- I am based in **Haikou, China**.
-- I am a student majoring in **Materials Forming and Control Engineering**.
-- I study at **Shaanxi University of Science & Technology**.
-- I am currently exploring **Human-Computer Interaction**, especially the most fundamental forms of interaction behavior.
-
-## Current Focus
-
-- Understanding how people interact with systems at the most basic behavioral level.
-- Connecting engineering thinking with interaction research.
-- Building a personal research direction around practical, observable, and testable interaction patterns.
-
-
-## GitHub Activity
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=111ws&show_icons=true&hide_border=true&theme=transparent" alt="111ws GitHub stats" />
-      </td>
-      <td align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=111ws&layout=compact&hide_border=true&theme=transparent" alt="111ws top languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=111ws&theme=github-compact&hide_border=true&area=true" alt="111ws GitHub activity graph" />
-      </td>
-    </tr>
-  </table>
+  <img src="assets/luxingyu-calligraphy.svg" alt="陆氏干饭王" width="760" />
+
+  <h1>Hi, I'm Xingyu Lu 👋</h1>
+
+  <p>
+    📍 Haikou &nbsp;|&nbsp; 🎓 Materials Forming and Control Engineering &nbsp;|&nbsp; 🧭 Human-Computer Interaction &nbsp;|&nbsp; 🏫 Shaanxi University of Science & Technology
+  </p>
+
+  <blockquote>
+    For the innovation,A step ahead, you lead; but two steps ahead, you bleed.
+  </blockquote>
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/111ws/111ws/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/111ws/111ws/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/111ws/111ws/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</picture>
+## About
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif"
-    alt="Never Gonna Give You Up animation"
-    width="520"
-  />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Profile</b><br />
+      Based in <b>Haikou, China</b>. I am a student majoring in <b>Materials Forming and Control Engineering</b> at <b>Shaanxi University of Science & Technology</b>.
+    </td>
+    <td width="50%" valign="top">
+      <b>Current Focus</b><br />
+      I am exploring <b>Human-Computer Interaction</b>, especially fundamental interaction behavior, observable patterns, and practical research questions.
+    </td>
+  </tr>
+</table>
+
+## GitHub Activity
+<p align="left">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" alt="Never Gonna Give You Up animation" width="420" />
+</p>
+<p align="right">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" alt="Never Gonna Give You Up animation" width="420" />
 </p>
