@@ -1,11 +1,6 @@
-# Hi, I'm Xingyu Lu
+# Hi, I'm Xingyu Lu 👋
 
-📍 Haikou | 🎓 Materials Forming and Control Engineering Student | 🧭 Human-Computer Interaction
-
-![Materials Forming](https://img.shields.io/badge/Materials%20Forming-Engineering-2f80ed)
-![Control Engineering](https://img.shields.io/badge/Control-Engineering-27ae60)
-![HCI](https://img.shields.io/badge/HCI-Interaction%20Behavior-f2994a)
-![Research](https://img.shields.io/badge/Research-Basic%20Human%20Interaction-9b51e0)
+📍 Haikou | 🎓 Materials Forming and Control Engineering Student | 🧭 Human-Computer Interaction | 🏫 Shaanxi University of Science & Technology
 
 > For the innovation,A step ahead, you lead; but two steps ahead, you bleed.
 
@@ -22,6 +17,39 @@
 - Connecting engineering thinking with interaction research.
 - Building a personal research direction around practical, observable, and testable interaction patterns.
 
-## Profile
 
-This page records my academic background, current research interests, and ongoing exploration in human-computer interaction.
+## GitHub Activity
+
+<!-- Replace XingyuLu with your GitHub username if it is different. -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=XingyuLu&theme=github-compact&hide_border=true&area=true&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=ffffff"
+    alt="Xingyu Lu GitHub contribution graph"
+    width="100%"
+  />
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/XingyuLu/XingyuLu/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/XingyuLu/XingyuLu/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/XingyuLu/XingyuLu/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</picture>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif"
+    alt="Never Gonna Give You Up animation"
+    width="520"
+  />
+</p>
