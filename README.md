@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="assets/luxingyu-calligraphy.svg" alt="陆氏干饭王" width="760" />
 
   <h1>Hi, I'm Xingyu Lu 👋</h1>
 
