@@ -23,3 +23,6 @@
   &nbsp;&nbsp;
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN4MXdnZTFvMXNmbjRqdDEyYnJoYXNvMDA4Y2xqazRxbW9raXplbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imjTC8KaAB1HW/giphy.gif" alt="Think Glitch animation" width="380" height="320" />
 </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/111ws/111ws/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" />
+</p>
