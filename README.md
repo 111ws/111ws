@@ -20,27 +20,35 @@
 
 ## GitHub Activity
 
-<!-- Replace XingyuLu with your GitHub username if it is different. -->
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=XingyuLu&theme=github-compact&hide_border=true&area=true&color=2ea44f&line=2ea44f&point=2ea44f&bg_color=ffffff"
-    alt="Xingyu Lu GitHub contribution graph"
-    width="100%"
-  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=111ws&show_icons=true&hide_border=true&theme=transparent" alt="111ws GitHub stats" />
+      </td>
+      <td align="center">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=111ws&layout=compact&hide_border=true&theme=transparent" alt="111ws top languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=111ws&theme=github-compact&hide_border=true&area=true" alt="111ws GitHub activity graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/XingyuLu/XingyuLu/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/111ws/111ws/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/XingyuLu/XingyuLu/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/111ws/111ws/output/github-contribution-grid-snake.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/XingyuLu/XingyuLu/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/111ws/111ws/output/github-contribution-grid-snake.svg"
     alt="GitHub contribution snake animation"
     width="100%"
   />
