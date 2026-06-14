@@ -25,10 +25,8 @@
 </table>
 
 ## GitHub Activity
-<table>
     <td valign="middle">
       <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" alt="Never Gonna Give You Up" width="420" height ="350" />
     <td width="100%" valign="middle"></td>
     <td valign="middle" align="right">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN4MXdnZTFvMXNmbjRqdDEyYnJoYXNvMDA4Y2xqazRxbW9raXplbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imjTC8KaAB1HW/giphy.gif" width = "350" height = "350"
-</table>
