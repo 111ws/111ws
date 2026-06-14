@@ -11,26 +11,15 @@
 
 ## About
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Profile</b><br />
-      Based in <b>Haikou, China</b>. I am a student majoring in <b>Materials Forming and Control Engineering</b> at <b>Shaanxi University of Science & Technology</b>.
-    </td>
-    <td width="50%" valign="top">
-      <b>Current Focus</b><br />
-      I am exploring <b>Human-Computer Interaction</b>, especially fundamental interaction behavior, observable patterns, and practical research questions.
-    </td>
-  </tr>
-</table>
+**Profile** · Based in **Haikou, China**. I am a student majoring in **Materials Forming and Control Engineering** at **Shaanxi University of Science & Technology**.
+
+**Current Focus** · I am exploring **Human-Computer Interaction**, especially fundamental interaction behavior, observable patterns, and practical research questions.
+
 
 ## GitHub Activity
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" alt="Never Gonna Give You Up" width="420" height ="350" />
-    <td width="100%" valign="middle"></td>
-    <td valign="middle" align="right">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN4MXdnZTFvMXNmbjRqdDEyYnJoYXNvMDA4Y2xqazRxbW9raXplbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imjTC8KaAB1HW/giphy.gif" width = "350" height = "350"
-    </tr>
-    <table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" alt="Never Gonna Give You Up animation" width="380" height="320" />
+  &nbsp;&nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN4MXdnZTFvMXNmbjRqdDEyYnJoYXNvMDA4Y2xqazRxbW9raXplbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/imjTC8KaAB1HW/giphy.gif" alt="Think Glitch animation" width="380" height="320" />
+</p>
