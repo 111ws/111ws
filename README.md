@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="assets/luxingyu-calligraphy.svg" alt="陆氏干饭王" width="760" />
 
   <h1>Hi, I'm Xingyu Lu 👋</h1>
 
@@ -28,9 +26,5 @@
 </table>
 
 ## GitHub Activity
-<p align="left">
+<p align="centre">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" alt="Never Gonna Give You Up animation" width="420" />
-</p>
-<p align="right">
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" alt="Never Gonna Give You Up animation" width="420" />
-</p>
